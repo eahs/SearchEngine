@@ -18,5 +18,27 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #71b0ff;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    color: #fff;
+    z-index: 15;
+}
+
+footer {
+    background: #bbe8ff;
+}
+
+.homer-footer {
+    position: fixed;
+    left: 50px;
+    bottom: 50px;
+    max-height: 25vh;
 }
