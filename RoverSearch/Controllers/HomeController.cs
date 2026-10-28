@@ -1,7 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
 using RoverSearch.Models;
 using System.Diagnostics;
 using RoverSearch.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace RoverSearch.Controllers;
 public class HomeController : Controller
